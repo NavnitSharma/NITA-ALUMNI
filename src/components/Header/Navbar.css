@@ -1,0 +1,27 @@
+.navbar{
+  height: 75px;
+}
+.navbar-toggler{
+  background-color: aliceblue;
+}
+.nav-link{
+  margin-left: 40px;
+  font-size: 17px;
+}
+.button{
+  border: none;
+  border-radius: 5px;
+  font-size: large;
+  color: blue;
+  background-color: aliceblue;
+}
+.button:hover{
+  background-color: aqua;
+}
+.logo{
+  display: flex;
+  align-items: center;
+}
+.logo-text{
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
