@@ -5,7 +5,7 @@ import Img_1 from './Pic_1.jpeg';
 import Img_2 from './Pic_2.jpeg';
 import Img_3 from './Pic_3.jpeg';
 import Img_4 from './Pic_4.jpeg';
-import Img_5 from './MembersName.jpg';
+// import Img_5 from './MembersName.jpg';
 
 export default function Home() {
   return (
@@ -22,7 +22,7 @@ export default function Home() {
 <h style={{color:'#3aafa9',marginBottom:'30px'}}>Student Alumni Relation Cell</h>
 
   
-<p style={{textAlign:'center',display:'flex',alignItems:'center'}}>Student Alumni Relation Cell (SARC) is a voluntary cell of IIT Guwahati under the office of Alumni Affairs and External Relations. It is operated by the students of IIT Guwahati under the Guidance of the Dean, Alumni Affairs, and External Relations. SARC acts as an engaging and mutually beneficial link between IIT Guwahati and its Alumni community.
+<p style={{textAlign:'center',display:'flex',alignItems:'center'}}>Student Alumni Relation Cell (SARC) is a voluntary cell of NIT AGARTALA under the office of Alumni Affairs and External Relations. It is operated by the students of NIT AGARTALA under the Guidance of the Dean, Alumni Affairs, and External Relations. SARC acts as an engaging and mutually beneficial link between NIT AGARTALA and its Alumni community.
 The organization works toward creating a dynamic student alumni community with NIT Agartala dedicated to fostering relationships and strengthening ties between students and alumni to support NITA's SARC mission of offering top-notch education and opportunities while also making investments in the institution's future.
 For achieving our well-specified and sophisticated vision, a plethora of activities have been undertaken to forge links and strengthen bonds between current students and alumni as well as amongst alumni.
 </p>
@@ -43,7 +43,7 @@ For achieving our well-specified and sophisticated vision, a plethora of activit
 </div>
 </div>
 
-<div className="membersName" style={{ backgroundImage: `url(${Img_5})`,backgroundSize:'cover',marginTop:'20px',padding:'10px',backgroundColor: '#ddd' }} >
+<div className="membersName" style={{ backgroundImage: `url(${Img_4})`,backgroundSize:'cover',marginTop:'20px',padding:'10px',backgroundColor: '#ddd' }} >
 
 <Container fluid>
     <Row>
