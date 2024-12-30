@@ -22,8 +22,8 @@ export default function Home() {
 <h style={{color:'#3aafa9',marginBottom:'30px'}}>Student Alumni Relation Cell</h>
 
   
-<p style={{textAlign:'center',display:'flex',alignItems:'center'}}>Student Alumni Relation Cell (SARC) is a voluntary cell of IIT Guwahati under the office of Alumni Affairs and External Relations. It is operated by the students of IIT Guwahati under the Guidance of the Dean, Alumni Affairs, and External Relations. SAIL acts as an engaging and mutually beneficial link between IIT Guwahati and its Alumni community.
-The organization works toward creating a dynamic student alumni community with IITGAA dedicated to fostering relationships and strengthening ties between students and alumni to support IIT Guwahati's mission of offering top-notch education and opportunities while also making investments in the institution's future.
+<p style={{textAlign:'center',display:'flex',alignItems:'center'}}>Student Alumni Relation Cell (SARC) is a voluntary cell of IIT Guwahati under the office of Alumni Affairs and External Relations. It is operated by the students of IIT Guwahati under the Guidance of the Dean, Alumni Affairs, and External Relations. SARC acts as an engaging and mutually beneficial link between IIT Guwahati and its Alumni community.
+The organization works toward creating a dynamic student alumni community with NIT Agartala dedicated to fostering relationships and strengthening ties between students and alumni to support NITA's SARC mission of offering top-notch education and opportunities while also making investments in the institution's future.
 For achieving our well-specified and sophisticated vision, a plethora of activities have been undertaken to forge links and strengthen bonds between current students and alumni as well as amongst alumni.
 </p>
 
@@ -33,7 +33,7 @@ For achieving our well-specified and sophisticated vision, a plethora of activit
   <h1 className="alumniHeading">Alumni Services</h1>
   <p className="alumniText">
 
-  We believe that every relationship is a two-way street. And the bond between alumni and the students of IITG is no different. We, as students of your alma mater, are always there to help you SAIL through any difficulties concerning IITG be it something major like the immediate Issuance of Original/Duplicate certificates, grade cards, the urgent requirement of Degree Transcripts, or minor ones like campus visits. We will make sure that those transcripts are made available to you in time. “Home is where our story begins…” and this is the place where you started from! And, we will ensure that you have a trouble-free stay at the IITG campus, your second home.
+  We believe that every relationship is a two-way street. And the bond between alumni and the students of NITA is no different. We, as students of your alma mater, are always there to help you SAIL through any difficulties concerning NITA be it something major like the immediate Issuance of Original/Duplicate certificates, grade cards, the urgent requirement of Degree Transcripts, or minor ones like campus visits. We will make sure that those transcripts are made available to you in time. “Home is where our story begins…” and this is the place where you started from! And, we will ensure that you have a trouble-free stay at the NITA campus, your second home.
   </p>
 
 <div className="boxes" style={{display:'flex',height:'5.4rem',width:'50%'}}>
