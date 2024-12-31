@@ -59,7 +59,7 @@ function Navbar() {
               </li>
               <li class="nav-item" style={{width:"90%"}}>
                 <Link class="nav-link active" href="#">
-                <button className="button">Register</button>
+                <button className="login-button">Login</button>
                 </Link> 
               </li>
             </ul>

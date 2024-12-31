@@ -14,6 +14,7 @@ import 'font-awesome/css/font-awesome.min.css';
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path='/' element={<Layout />}>
+      <Route path='/' element={<Home/>} />
      <Route path='/home' element={<Home/>} />
      <Route path='/about' element={<About/>} />
      <Route path='/event' element={<Event/>} />

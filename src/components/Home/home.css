@@ -1,3 +1,27 @@
-.nit-image{
-  object-fit: cover;
+.news-event{
+  margin-left: 60px;
+  margin-top: 50px;
+}
+.news{
+  position: relative;
+}
+.news::after{
+ content: "";
+ position: absolute;
+ left: 0;
+ bottom: 0;
+ height: 3px;
+ width: 16%;
+ background-color: rgb(226,135,67);
+ 
+}
+.news-title a{
+  color: #333;
+  text-decoration: none;
+}
+.news-title:hover{
+z-index: 2;
+}
+.news-title a:hover{
+  z-index: 1;
 }
