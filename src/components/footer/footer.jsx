@@ -58,7 +58,6 @@ function Footer() {
         <div className="mt-5 text-muted text-center" style={{ fontSize: "11px" }}>
         <div className="text-center">
       <p className="text-center">copyrights <i class="fa-regular fa-copyright"></i>&nbsp;2024 Student alumini relation cell (SARC) All rights reserved.<br/>Designed and developed by SARC TEAM</p>
-     
       </div>
         </div>
       </div>

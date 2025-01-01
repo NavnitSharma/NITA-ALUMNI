@@ -1,6 +1,7 @@
 .news-event{
   margin-left: 60px;
   margin-top: 50px;
+  margin-bottom: 40px;
 }
 .news{
   position: relative;
@@ -10,7 +11,7 @@
  position: absolute;
  left: 0;
  bottom: 0;
- height: 3px;
+ height: 2px;
  width: 16%;
  background-color: rgb(226,135,67);
  
@@ -24,4 +25,60 @@ z-index: 2;
 }
 .news-title a:hover{
   z-index: 1;
+}
+.alumni-count{
+  width: 100%;
+  background-color: grey;
+  height: 200px;
+  margin-top: 200px;
+  padding: 60px;
+}
+.social-feed-heading{
+  margin-left: 80px;
+  margin-top: 50px;
+  position: relative;
+}
+.social-feed-heading::after{
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 2px;
+  width: 20%;
+  background-color: rgb(226,135,67);
+}
+
+.social-feed-heading a{
+  text-decoration: none;
+  color:#333;
+  font-weight: 500;
+  font-size: 26px;
+  cursor: pointer;
+}
+.youtube-video{
+  margin-left: 80px;
+}
+.contact-us{
+  margin-left:80px;
+  margin-top: 30px;
+  position: relative;
+}
+.contact-us a{
+  text-decoration: none;
+  color:#333;
+  font-weight: 500;
+  font-size: 26px;
+  cursor: pointer;
+}
+.contact-us::after{
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 2px;
+  width: 13%;
+  background-color: rgb(226,135,67);
+}
+.map{
+  margin-left: 70px;
 }
